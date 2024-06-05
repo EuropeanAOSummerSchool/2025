@@ -1,0 +1,6 @@
+[submodule "aotools_demonstration"]
+	path = aotools_demonstration
+	url = https://github.com/EuropeanAOSummerSchool/aotools_demonstration.git
+[submodule "soapy_demonstration"]
+	path = soapy_demonstration
+	url = https://github.com/EuropeanAOSummerSchool/soapy_demonstration.git
