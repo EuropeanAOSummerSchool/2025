@@ -4,3 +4,6 @@
 [submodule "soapy_demonstration"]
 	path = soapy_demonstration
 	url = https://github.com/EuropeanAOSummerSchool/soapy_demonstration.git
+[submodule "AOtools-for-vision-science"]
+	path = AOtools-for-vision-science
+	url = https://github.com/pennyflawton/AOtools-for-vision-science.git
