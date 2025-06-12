@@ -9,6 +9,14 @@ This repository contains the Jupyter notebooks and simulation configurations for
 The resources needed for each part of the workshop will be downloaded and are contained in the similarly named folder. If you need help installing Python and setting up an environment to run these resources on your own machine please get in touch with the demonstrators or start a discussion [here](https://github.com/orgs/EuropeanAOSummerSchool/discussions/categories/2025-summer-school-help).
 
 ## Getting Jupyter notebooks running
+### At the Summer School
+Open an "Anaconda Powershell Prompt" from the start menu
+
+Run:
+
+`conda activate T:\ao_summer_school`
+
+### On Your Own Machine
 To follow this series of notebooks you will need to install a few key packages. This includes:
 - aotools
 - jupyter
