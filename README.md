@@ -13,7 +13,7 @@ To follow this series of notebooks you will need to install a few key packages. 
 - aotools
 - jupyter
 
-We recommend using the anaconda Python distribution, and installing jupyter and ffmpeg through it:
+We recommend using the [anaconda Python distribution](https://www.anaconda.com/docs/getting-started/anaconda/install), and installing jupyter and ffmpeg through it:
 
 `conda install jupyter`
 
